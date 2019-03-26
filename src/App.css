@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+.comicContent {
+  display: flex;
+  flex-direction: row;
+}
+
+.loginHeader {
+  display: flex;
+  flex-direction: row;
+  line-height: 1px;
+  background-color: rgb(185, 184, 184);
+  padding: 1px;
+}
+
+
+#loginImage {
+  border-radius: 50%;
+  height: 80%;
+}
+
+.loginPrompt {
+  width: 100%;
+  height: 100vh;
+  background-image: url('http://eskipaper.com/images/marvel-wallpaper-14.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.ID {
+  font-size: 10px;
+  margin-left: -170px;
+}
+
+.loginBox {
+  width: 100%;
+  color: white;
+}
+
+.pages {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.img {
+  height: 100vh;
+  width: 40vw;
+
+}
+
+article:hover {
+  cursor: "pointer";
+}
+
+button {
+  width: 500px;
+  height: 100px;
+  margin-top: 250px;
+}
+
+button:hover {
+  background-color: rgb(91, 143, 14);
+  border-color: rgb(91, 143, 14);
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.comicNav {
+  display: flex;
+  flex-direction: row;
+}
+
+.navImg {
+  height: 200px;
+  margin:auto;
+}
+
+.nav {
+  border: 1px solid black;
+  overflow: auto;
+  width: 200px;
+  height: 100vh;
+}
+
+.navImg:hover {
+  border: 5px solid gold;
+}
