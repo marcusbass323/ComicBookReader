@@ -4,7 +4,7 @@
 
 <p>The landing page was created with a container that holds the Avengers background.</p> 
 
-<img src="https://media.giphy.com/media/wI8MZ28hX1Oa6ZRa2d/giphy.gif"/>
+<img src="https://i.imgur.com/CbIxEQI.jpg"/>
 
 <p>The facebook auth button button comes from the react-facebook-login dependency.</p>
 <p>It requires a .env file which marks HTTPS as true for the page to load without warning.</p>
