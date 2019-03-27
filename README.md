@@ -6,4 +6,4 @@
 
 <img src="https://media.giphy.com/media/5Sxds9u9h0tYjqZY81/giphy.gif"/>
 
-<p>The facebook auth button button comes from the react-facebook-login dependency</p>
+<p>The facebook auth button button comes from the react-facebook-login dependency.</p>
