@@ -8,3 +8,5 @@
 
 <p>The facebook auth button button comes from the react-facebook-login dependency.</p>
 <p>It requires a .env file which marks HTTPS as true for the page to load without warning.</p>
+
+<img src="https://imgur.com/CbIxEQI"/>
