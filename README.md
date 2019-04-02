@@ -21,3 +21,5 @@ Upon successful login, the user is directed to the comic book homepage.  </p>
   for the page flip animation, and gifs are added to the sidebar to transition from still
   picture to animation on hover.</p>
   <img src="https://media.giphy.com/media/uU9eQ2lk3levmvcvRr/giphy.gif"/>
+
+Thank you for your interest.
