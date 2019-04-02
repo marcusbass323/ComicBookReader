@@ -12,5 +12,6 @@
   which includes it's own built-in functionality and is API based.</p>
 <img src="https://media.giphy.com/media/2MhP7sohEJxKo2yoz9/giphy.gif"/>
 
-<p>2 - </p>
+<p>2 - The OAuth modal is provided by the React Facebook Login dependency. 
+Upon successful login, the user is directed to the comic book homepage.  </p>
 <img src="https://i.imgur.com/VCD4xTJ.jpg?2"/>
