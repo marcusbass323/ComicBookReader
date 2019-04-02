@@ -13,4 +13,4 @@
 <img src="https://media.giphy.com/media/2MhP7sohEJxKo2yoz9/giphy.gif"/>
 
 <p>2 - </p>
-<img src="https://i.imgur.com/VCD4xTJ.jpg?1"/>
+<img src="https://i.imgur.com/VCD4xTJ.jpg?2"/>
