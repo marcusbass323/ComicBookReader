@@ -15,3 +15,9 @@
 <p>2 - The OAuth modal is provided by the React Facebook Login dependency. 
 Upon successful login, the user is directed to the comic book homepage.  </p>
 <img src="https://i.imgur.com/VCD4xTJ.jpg?2"/>
+
+<p>3 - The homepage includes a sidebar built with React Router, and displyed 
+  vertically with the Flexbox column property. The Flip Page dependency is responsible
+  for the page flip animation, and gifs are added to the sidebar to transition from still
+  picture to animation on hover.</p>
+  <img src="https://media.giphy.com/media/uU9eQ2lk3levmvcvRr/giphy.gif"/>
