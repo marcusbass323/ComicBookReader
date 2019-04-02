@@ -1,6 +1,6 @@
 <h1>Comic Book Reader</h1>
 
-<h2>Tech stack</h2>
+<h2>Tech stack:</h2>
 <ul>
   <li>React</li>
   <li>React Facebook Login</li>
